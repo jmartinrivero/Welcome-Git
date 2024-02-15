@@ -1,0 +1,1 @@
+//Fichero de js para validar
